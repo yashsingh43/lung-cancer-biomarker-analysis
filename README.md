@@ -14,7 +14,7 @@ This repository contains data, analyses, figures, and scripts from a research pr
 ---
 
 ## Repository Structure
-
+```
 lung-cancer-biomarker-analysis/
 │
 ├── data/ # Raw and processed data
@@ -34,7 +34,7 @@ lung-cancer-biomarker-analysis/
 ├── scripts/ # Analysis scripts (R Source files)
 │
 └── README.md # Project overview, structure, and file descriptions
-
+```
 ---
 
 ## Data Description
