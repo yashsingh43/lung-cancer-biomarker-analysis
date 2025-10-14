@@ -70,7 +70,7 @@ This section summarizes the key datasets used in this repository and organized u
 ---
 
 ## Results Summary
-- Eight dysregulated genes were identified that may aid in developing a biosignature for early detecting in lung cancer.
+- Eight dysregulated genes were identified that may aid in developing a biosignature for early detection in lung cancer.
 - Top dysregulated genes were associated with multiple cell-cycle processes.
 - Visual results include heatmaps and interactomes as presented in the final poster.
 
