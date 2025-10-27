@@ -77,4 +77,4 @@ This section summarizes the key datasets used in this repository and organized u
 ---
 
 *This repository contains all final data, analyses, and figures from the project.*  
-*For inquiries, contact Yash Singh at yashksingh43@gmail.com.*
+*For inquiries, contact Yashkirat Singh at yashksingh43@gmail.com.*
